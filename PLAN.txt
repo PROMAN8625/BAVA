@@ -8,14 +8,15 @@ s.print-f~" "~f,
 ---------------------------------------------------------------------------------------------------------------
 
 
-things s.print -- s.p'  **
-things s.toString -- s.ts'  **
-/*				**
-* COMMENT		**
-*/				**
+if-con = con;
+s.print-"if",
+;
+elif-con = con;
+s.print-"elif",
+;
+else;
+s.print-"else",
+;
 
-does main-[ **
-	
-	s.p-"hi" + str + s.ts-int + s.ts-flt ,
-
-] **
+; = {}
+- = ()
