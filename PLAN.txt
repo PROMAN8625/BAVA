@@ -1,0 +1,21 @@
+var f -- s.in-"hi: ",
+s.print-"wrote in bava"_" lol",
+s.print-".n.",
+s.print-f~" "~f,
+// comment
+
+
+---------------------------------------------------------------------------------------------------------------
+
+
+things s.print -- s.p'  **
+things s.toString -- s.ts'  **
+/*				**
+* COMMENT		**
+*/				**
+
+does main-[ **
+	
+	s.p-"hi" + str + s.ts-int + s.ts-flt ,
+
+] **
